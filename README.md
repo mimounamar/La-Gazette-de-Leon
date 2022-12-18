@@ -13,5 +13,4 @@ The editor's dashboard is available [here.](https://lagazettedeleon.social/admin
 
     Username : utilisateurdedémonstration
     Password : ForTestingOnly123
-# La-Gazette-de-Leon
-# La-Gazette-de-Leon
+
